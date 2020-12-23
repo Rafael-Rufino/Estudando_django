@@ -1,0 +1,25 @@
+body{
+    background-color:black;
+    color:white;
+}
+style{
+    color:white;
+
+}
+a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+
+}
+table{
+    color:red;
+    font-weight: bold;
+
+}
+ th{
+    color:blue;
+}
+tr{
+    background-color: yellow;
+}
